@@ -135,7 +135,7 @@ GameObject:
   - component: {fileID: 264206991}
   - component: {fileID: 264206993}
   m_Layer: 0
-  m_Name: Square
+  m_Name: ground2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -312,7 +312,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 519420028}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 4.77, y: 0.99, z: -10}
+  m_LocalPosition: {x: 1.92, y: -1.95, z: -10}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -353,6 +353,11 @@ MonoBehaviour:
   m_CameraActivatedEvent:
     m_PersistentCalls:
       m_Calls: []
+--- !u!4 &538050592 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 6086394622199790502, guid: f57d63e48c9070c4a96f3fad6a14ce9e, type: 3}
+  m_PrefabInstance: {fileID: 6086394622325951411}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &712846066
 GameObject:
   m_ObjectHideFlags: 0
@@ -789,11 +794,6 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 2752094217389414453, guid: 55f661ed07a4dbe468ca5eb2467b653d, type: 3}
   m_PrefabInstance: {fileID: 2752094219138375898}
   m_PrefabAsset: {fileID: 0}
---- !u!4 &1064251267 stripped
-Transform:
-  m_CorrespondingSourceObject: {fileID: 2752094218648578990, guid: 55f661ed07a4dbe468ca5eb2467b653d, type: 3}
-  m_PrefabInstance: {fileID: 2752094219138375898}
-  m_PrefabAsset: {fileID: 0}
 --- !u!1 &1491796194
 GameObject:
   m_ObjectHideFlags: 0
@@ -806,7 +806,7 @@ GameObject:
   - component: {fileID: 1491796196}
   - component: {fileID: 1491796195}
   m_Layer: 0
-  m_Name: Square (1)
+  m_Name: ground
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -962,7 +962,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1608573322}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 4.77, y: 0.99, z: -10}
+  m_LocalPosition: {x: 1.92, y: -1.95, z: -10}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -989,7 +989,7 @@ MonoBehaviour:
   m_Priority: 10
   m_StandbyUpdate: 2
   m_LookAt: {fileID: 0}
-  m_Follow: {fileID: 1064251267}
+  m_Follow: {fileID: 538050592}
   m_Lens:
     FieldOfView: 40
     OrthographicSize: 4
