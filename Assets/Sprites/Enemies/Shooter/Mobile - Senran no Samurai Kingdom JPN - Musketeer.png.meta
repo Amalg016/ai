@@ -1,0 +1,706 @@
+fileFormatVersion: 2
+guid: 0390b5d4454459245b4fc6cd43e1f66e
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Mobile - Senran no Samurai Kingdom JPN - Musketeer_0
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 300
+        width: 43
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5f3f5c66efa29442a9b94294dd3ed16
+      internalID: -437545239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Senran no Samurai Kingdom JPN - Musketeer_1
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 300
+        width: 43
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c20280950d9e504428663430594a5db7
+      internalID: 1545295859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Senran no Samurai Kingdom JPN - Musketeer_2
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 300
+        width: 43
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f7bb14cf56bd12468742622998aaa23
+      internalID: -1793751688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Senran no Samurai Kingdom JPN - Musketeer_3
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 300
+        width: 43
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89f2183c80f6fb7489c27c808eca9fc9
+      internalID: -651111776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Senran no Samurai Kingdom JPN - Musketeer_4
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 300
+        width: 49
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d714c2497c440de42b40859dd90e5514
+      internalID: 39834681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Senran no Samurai Kingdom JPN - Musketeer_5
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 300
+        width: 33
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3796dfe38e1e55409c297627d52f9d4
+      internalID: -233031155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Senran no Samurai Kingdom JPN - Musketeer_6
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 317
+        width: 36
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb21dc0d363c5ca4fb462e4ead33e1b9
+      internalID: -574327626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Senran no Samurai Kingdom JPN - Musketeer_7
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 300
+        width: 35
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4aa0746506a18e74fbf5812396bb00a8
+      internalID: 532199862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Senran no Samurai Kingdom JPN - Musketeer_8
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 300
+        width: 36
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa7743e0a0addc94c8f3c85aafbb913c
+      internalID: -442087730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Senran no Samurai Kingdom JPN - Musketeer_9
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 180
+        width: 37
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6c6379bc5ad97e4a8422ad42246d92e
+      internalID: -1268355328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Senran no Samurai Kingdom JPN - Musketeer_10
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 180
+        width: 54
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa2e427afd0f6864890e48c1b5642425
+      internalID: -1898880673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Senran no Samurai Kingdom JPN - Musketeer_11
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 180
+        width: 56
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c047b9148e3794408351c87ec58f723
+      internalID: -880347905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Senran no Samurai Kingdom JPN - Musketeer_12
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 179
+        width: 49
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06f000c8250479d41adc58588ec2eef5
+      internalID: 6324167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Senran no Samurai Kingdom JPN - Musketeer_13
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 185
+        width: 41
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cb9d5fb5732a6d458cf8d13f0105558
+      internalID: 577168610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Senran no Samurai Kingdom JPN - Musketeer_14
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 191
+        width: 40
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe94994f2c1d87b4dab126ba9466e018
+      internalID: -1495758199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Senran no Samurai Kingdom JPN - Musketeer_15
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 180
+        width: 43
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6aaf3720865b6a04ebadcb49b64e9ed6
+      internalID: 357300571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Senran no Samurai Kingdom JPN - Musketeer_16
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 179
+        width: 49
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 479ca499b4c35864f86fe9b94b569686
+      internalID: -1331680440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Senran no Samurai Kingdom JPN - Musketeer_17
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 169
+        width: 38
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0b862c03fc37ff48b79de6e3a20ef3f
+      internalID: -235784478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Senran no Samurai Kingdom JPN - Musketeer_18
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 62
+        width: 40
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e4e4904a45077b42ba7734d0fd810ab
+      internalID: -191904657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Senran no Samurai Kingdom JPN - Musketeer_19
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 62
+        width: 46
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4af4f9f332ef61a459cd1d55d52f3a05
+      internalID: -2074653733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Senran no Samurai Kingdom JPN - Musketeer_20
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 62
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58fe6762591ef9949bf769ae35852cc9
+      internalID: -528178038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Senran no Samurai Kingdom JPN - Musketeer_21
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 63
+        width: 47
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd292c1d8ecda6d42b90feada2a6f550
+      internalID: 39830217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Senran no Samurai Kingdom JPN - Musketeer_22
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 62
+        width: 47
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49d7fae527394054cb0ea4b2bc6eddfe
+      internalID: 32865297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Senran no Samurai Kingdom JPN - Musketeer_23
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 62
+        width: 42
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3466a761828b69042b3c9a74ba28a18b
+      internalID: 1704871382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Senran no Samurai Kingdom JPN - Musketeer_24
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 59
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae53be8c1d21c5945a9fe562010594db
+      internalID: 140180762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Senran no Samurai Kingdom JPN - Musketeer_25
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 59
+        width: 49
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41a296268b62ba74fbd0c11b7bb97e20
+      internalID: -842064480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Mobile - Senran no Samurai Kingdom JPN - Musketeer_6: -574327626
+      Mobile - Senran no Samurai Kingdom JPN - Musketeer_22: 32865297
+      Mobile - Senran no Samurai Kingdom JPN - Musketeer_20: -528178038
+      Mobile - Senran no Samurai Kingdom JPN - Musketeer_14: -1495758199
+      Mobile - Senran no Samurai Kingdom JPN - Musketeer_18: -191904657
+      Mobile - Senran no Samurai Kingdom JPN - Musketeer_2: -1793751688
+      Mobile - Senran no Samurai Kingdom JPN - Musketeer_0: -437545239
+      Mobile - Senran no Samurai Kingdom JPN - Musketeer_3: -651111776
+      Mobile - Senran no Samurai Kingdom JPN - Musketeer_5: -233031155
+      Mobile - Senran no Samurai Kingdom JPN - Musketeer_11: -880347905
+      Mobile - Senran no Samurai Kingdom JPN - Musketeer_1: 1545295859
+      Mobile - Senran no Samurai Kingdom JPN - Musketeer_23: 1704871382
+      Mobile - Senran no Samurai Kingdom JPN - Musketeer_16: -1331680440
+      Mobile - Senran no Samurai Kingdom JPN - Musketeer_13: 577168610
+      Mobile - Senran no Samurai Kingdom JPN - Musketeer_19: -2074653733
+      Mobile - Senran no Samurai Kingdom JPN - Musketeer_9: -1268355328
+      Mobile - Senran no Samurai Kingdom JPN - Musketeer_12: 6324167
+      Mobile - Senran no Samurai Kingdom JPN - Musketeer_8: -442087730
+      Mobile - Senran no Samurai Kingdom JPN - Musketeer_15: 357300571
+      Mobile - Senran no Samurai Kingdom JPN - Musketeer_4: 39834681
+      Mobile - Senran no Samurai Kingdom JPN - Musketeer_25: -842064480
+      Mobile - Senran no Samurai Kingdom JPN - Musketeer_10: -1898880673
+      Mobile - Senran no Samurai Kingdom JPN - Musketeer_17: -235784478
+      Mobile - Senran no Samurai Kingdom JPN - Musketeer_7: 532199862
+      Mobile - Senran no Samurai Kingdom JPN - Musketeer_21: 39830217
+      Mobile - Senran no Samurai Kingdom JPN - Musketeer_24: 140180762
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,730 @@
+fileFormatVersion: 2
+guid: 1139955ff67933844a2af4bc721194f6
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Mobile - Senran no Samurai Kingdom JPN - Spearman 1_0
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 300
+        width: 45
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 791708713c5344044ad6b5c329329ee8
+      internalID: 721850606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Senran no Samurai Kingdom JPN - Spearman 1_1
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 300
+        width: 45
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e85e10e64def2b943ae1b9d1e03fc566
+      internalID: -315171701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Senran no Samurai Kingdom JPN - Spearman 1_2
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 300
+        width: 45
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56d8f22c84ebabe41bed96969253cca1
+      internalID: -165451075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Senran no Samurai Kingdom JPN - Spearman 1_3
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 300
+        width: 45
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd0fc5b9485d8ae49a3581f3ec4b55a2
+      internalID: 798412336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Senran no Samurai Kingdom JPN - Spearman 1_4
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 303
+        width: 45
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c2ff733c254ffa4a9c482206ace7fc6
+      internalID: 1335056732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Senran no Samurai Kingdom JPN - Spearman 1_5
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 300
+        width: 79
+        height: 49
+      alignment: 9
+      pivot: {x: 0.3, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6012be38f07d6f341a43d6b3b77b5490
+      internalID: 1304231687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Senran no Samurai Kingdom JPN - Spearman 1_7
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 300
+        width: 47
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e1b0e6d3467a5a4a813fda80a96f952
+      internalID: -684409015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Senran no Samurai Kingdom JPN - Spearman 1_8
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 300
+        width: 44
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fe8c077ac9626e49bfe9d74eef98048
+      internalID: -1826899612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Senran no Samurai Kingdom JPN - Spearman 1_10
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 180
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb9ed159bc01b224cb2d1e7b612d16eb
+      internalID: 1111852226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Senran no Samurai Kingdom JPN - Spearman 1_11
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 180
+        width: 54
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43d2764f5a96b7a4888d119cbf283612
+      internalID: 1400593978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Senran no Samurai Kingdom JPN - Spearman 1_12
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 180
+        width: 54
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63697969ba0a0d7478ceb3252e6732b0
+      internalID: -747386372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Senran no Samurai Kingdom JPN - Spearman 1_13
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 198
+        width: 24
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da9db863c5650ac45b009cc07b617062
+      internalID: 2117869667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Senran no Samurai Kingdom JPN - Spearman 1_14
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 187
+        width: 49
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 180d1796c587cdb4c919adc350210e5d
+      internalID: 183308168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Senran no Samurai Kingdom JPN - Spearman 1_15
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 185
+        width: 45
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5db41810e45266948a0de0b3e9df3ad2
+      internalID: 1026449505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Senran no Samurai Kingdom JPN - Spearman 1_16
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 185
+        width: 44
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e127580e95d43a64f8f2ddb1cf8b373a
+      internalID: -2029168816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Senran no Samurai Kingdom JPN - Spearman 1_17
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 180
+        width: 45
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7dc72f7585d3a7489003bf8c5913058
+      internalID: -81836808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Senran no Samurai Kingdom JPN - Spearman 1_18
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 178
+        width: 52
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70c85df8093b59a469394d3e330d5380
+      internalID: -1381187914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Senran no Samurai Kingdom JPN - Spearman 1_19
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 171
+        width: 47
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17e5e4445868755408923a95b33dda7f
+      internalID: 307680451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Senran no Samurai Kingdom JPN - Spearman 1_20
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 62
+        width: 46
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d329f6e842cfa34ba47a64d6a4de480
+      internalID: 2014904593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Senran no Samurai Kingdom JPN - Spearman 1_21
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 62
+        width: 47
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8a7a5b8ad8c3a443a06b9efa2857059
+      internalID: -1846052043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Senran no Samurai Kingdom JPN - Spearman 1_22
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 62
+        width: 51
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5c1642c3a634754dababea4c27e1c67
+      internalID: -1997720144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Senran no Samurai Kingdom JPN - Spearman 1_23
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 62
+        width: 46
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0bbe2367f6b3e44ba526008381e0c2f
+      internalID: 1279179665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Senran no Samurai Kingdom JPN - Spearman 1_24
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 62
+        width: 47
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbebfa243a3f5b24fa5638cc90bf687a
+      internalID: -313576491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Senran no Samurai Kingdom JPN - Spearman 1_25
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 62
+        width: 51
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c5c39e80e334694886452e0d4af475b
+      internalID: -488491960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Senran no Samurai Kingdom JPN - Spearman 1_26
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 59
+        width: 44
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 603c729ce81354e4e8b7427386b25602
+      internalID: 1958283934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Senran no Samurai Kingdom JPN - Spearman 1_27
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 78
+        width: 24
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0cb7ed7854f00445a1402b7475090e6
+      internalID: -526710551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Senran no Samurai Kingdom JPN - Spearman 1_28
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 67
+        width: 49
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe97e8aa1afacae47be768a76528aa1b
+      internalID: 1376972575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Mobile - Senran no Samurai Kingdom JPN - Spearman 1_18: -1381187914
+      Mobile - Senran no Samurai Kingdom JPN - Spearman 1_19: 307680451
+      Mobile - Senran no Samurai Kingdom JPN - Spearman 1_0: 721850606
+      Mobile - Senran no Samurai Kingdom JPN - Spearman 1_11: 1400593978
+      Mobile - Senran no Samurai Kingdom JPN - Spearman 1_23: 1279179665
+      Mobile - Senran no Samurai Kingdom JPN - Spearman 1_24: -313576491
+      Mobile - Senran no Samurai Kingdom JPN - Spearman 1_12: -747386372
+      Mobile - Senran no Samurai Kingdom JPN - Spearman 1_5: 1304231687
+      Mobile - Senran no Samurai Kingdom JPN - Spearman 1_2: -165451075
+      Mobile - Senran no Samurai Kingdom JPN - Spearman 1_28: 1376972575
+      Mobile - Senran no Samurai Kingdom JPN - Spearman 1_21: -1846052043
+      Mobile - Senran no Samurai Kingdom JPN - Spearman 1_4: 1335056732
+      Mobile - Senran no Samurai Kingdom JPN - Spearman 1_3: 798412336
+      Mobile - Senran no Samurai Kingdom JPN - Spearman 1_17: -81836808
+      Mobile - Senran no Samurai Kingdom JPN - Spearman 1_16: -2029168816
+      Mobile - Senran no Samurai Kingdom JPN - Spearman 1_20: 2014904593
+      Mobile - Senran no Samurai Kingdom JPN - Spearman 1_14: 183308168
+      Mobile - Senran no Samurai Kingdom JPN - Spearman 1_15: 1026449505
+      Mobile - Senran no Samurai Kingdom JPN - Spearman 1_13: 2117869667
+      Mobile - Senran no Samurai Kingdom JPN - Spearman 1_1: -315171701
+      Mobile - Senran no Samurai Kingdom JPN - Spearman 1_10: 1111852226
+      Mobile - Senran no Samurai Kingdom JPN - Spearman 1_22: -1997720144
+      Mobile - Senran no Samurai Kingdom JPN - Spearman 1_25: -488491960
+      Mobile - Senran no Samurai Kingdom JPN - Spearman 1_27: -526710551
+      Mobile - Senran no Samurai Kingdom JPN - Spearman 1_8: -1826899612
+      Mobile - Senran no Samurai Kingdom JPN - Spearman 1_26: 1958283934
+      Mobile - Senran no Samurai Kingdom JPN - Spearman 1_9: 1236500861
+      Mobile - Senran no Samurai Kingdom JPN - Spearman 1_7: -684409015
+      Mobile - Senran no Samurai Kingdom JPN - Spearman 1_6: -390933420
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

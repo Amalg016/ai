@@ -1,0 +1,772 @@
+fileFormatVersion: 2
+guid: 7c0bbc48352be354bae3cc281c7be88b
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Mobile - Senran no Samurai Kingdom JPN - Sergeant Keroro_0
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 401
+        width: 31
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99718012c1331d64f9c4521a205dabbc
+      internalID: -913503536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Senran no Samurai Kingdom JPN - Sergeant Keroro_1
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 401
+        width: 31
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78f4f049f277ad2438495bca99798940
+      internalID: -1400462814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Senran no Samurai Kingdom JPN - Sergeant Keroro_2
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 401
+        width: 31
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6cd1018c020bf446ab01f4511f7c5af
+      internalID: 701425653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Senran no Samurai Kingdom JPN - Sergeant Keroro_3
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 401
+        width: 33
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 621983a4694888b44a9fce900bcf0d65
+      internalID: 1363752764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Senran no Samurai Kingdom JPN - Sergeant Keroro_4
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 401
+        width: 77
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbd678f4c3a66054e89096ff634338a7
+      internalID: -1639916976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Senran no Samurai Kingdom JPN - Sergeant Keroro_5
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 401
+        width: 41
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fedbdd8caf034f45a3ffa2bb107e0c4
+      internalID: 1069716215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Senran no Samurai Kingdom JPN - Sergeant Keroro_6
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 407
+        width: 42
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d5c5edf86af8ce4f8305dba2ec87af3
+      internalID: 570658355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Senran no Samurai Kingdom JPN - Sergeant Keroro_7
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 401
+        width: 33
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5f059f5409ba8c41b6973034c9fcdc2
+      internalID: 236819361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Senran no Samurai Kingdom JPN - Sergeant Keroro_8
+      rect:
+        serializedVersion: 2
+        x: 873
+        y: 401
+        width: 33
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2633a7101cff1746a9436dcb310b5f3
+      internalID: 972764979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Senran no Samurai Kingdom JPN - Sergeant Keroro_9
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 281
+        width: 31
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15806722b2966eb4c8d031fd3d5addfa
+      internalID: -889178407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Senran no Samurai Kingdom JPN - Sergeant Keroro_10
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 292
+        width: 51
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6f4cbfdf7ff2164b997e0369ff3c808
+      internalID: 621780623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Senran no Samurai Kingdom JPN - Sergeant Keroro_11
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 281
+        width: 36
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64af1d7fa2cb2c84e919af54035b9f56
+      internalID: -2108294286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Senran no Samurai Kingdom JPN - Sergeant Keroro_12
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 284
+        width: 77
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d026513dfb1d880438a0df589d42e857
+      internalID: -1219850976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Senran no Samurai Kingdom JPN - Sergeant Keroro_13
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 281
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7bbdd8eaf4f4d7469a2b9beefbdf577
+      internalID: 1845999737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Senran no Samurai Kingdom JPN - Sergeant Keroro_14
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 299
+        width: 38
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8da24b6678f76f7408797269b760a99f
+      internalID: 1744372780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Senran no Samurai Kingdom JPN - Sergeant Keroro_15
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 300
+        width: 32
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f00c071bbe0bab40a3e67da5468dc42
+      internalID: 744937404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Senran no Samurai Kingdom JPN - Sergeant Keroro_16
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 300
+        width: 33
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21404fcb94ff3f441bc16e641e63181b
+      internalID: 2045104159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Senran no Samurai Kingdom JPN - Sergeant Keroro_17
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 281
+        width: 33
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e6cb59712e605b4dbfd7d51dbe13a18
+      internalID: 324932365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Senran no Samurai Kingdom JPN - Sergeant Keroro_18
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 270
+        width: 45
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f33852f5e361ee4459df1cf43b0aeee8
+      internalID: -804391233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Senran no Samurai Kingdom JPN - Sergeant Keroro_19
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 160
+        width: 32
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78156594a772aa443816326e5d5a5ef2
+      internalID: 453945091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Senran no Samurai Kingdom JPN - Sergeant Keroro_20
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 160
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6c76517a2a08d24d966b56191e4fa99
+      internalID: -1249245323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Senran no Samurai Kingdom JPN - Sergeant Keroro_21
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 160
+        width: 33
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32a3ad3bac99777499cecf1d9c763543
+      internalID: 126561977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Senran no Samurai Kingdom JPN - Sergeant Keroro_22
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 160
+        width: 32
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f35ef80353ed8b349a86516b640bc16e
+      internalID: -1484609795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Senran no Samurai Kingdom JPN - Sergeant Keroro_23
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 160
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d11ae4fead306a4a86f4dd782b2b145
+      internalID: 590912013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Senran no Samurai Kingdom JPN - Sergeant Keroro_24
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 160
+        width: 33
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1b2f754e90231948b6bdf2ca0894baa
+      internalID: -547105619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Senran no Samurai Kingdom JPN - Sergeant Keroro_25
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 160
+        width: 33
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 882c581bd23595747b54abcf7fa690fc
+      internalID: 544156233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Senran no Samurai Kingdom JPN - Sergeant Keroro_26
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 179
+        width: 38
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 288328426f7511d42b89b80d5d9f206b
+      internalID: 653631907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Senran no Samurai Kingdom JPN - Sergeant Keroro_27
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 14
+        width: 112
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49c18e46458ba3c41ae3be196425d0e7
+      internalID: 437793467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Senran no Samurai Kingdom JPN - Sergeant Keroro_28
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 12
+        width: 115
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c14543a7b9b25564aa53d841bea99bf1
+      internalID: -307651258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Mobile - Senran no Samurai Kingdom JPN - Sergeant Keroro_10: 621780623
+      Mobile - Senran no Samurai Kingdom JPN - Sergeant Keroro_15: 744937404
+      Mobile - Senran no Samurai Kingdom JPN - Sergeant Keroro_0: -913503536
+      Mobile - Senran no Samurai Kingdom JPN - Sergeant Keroro_6: 570658355
+      Mobile - Senran no Samurai Kingdom JPN - Sergeant Keroro_22: -1484609795
+      Mobile - Senran no Samurai Kingdom JPN - Sergeant Keroro_1: -1400462814
+      Mobile - Senran no Samurai Kingdom JPN - Sergeant Keroro_11: -2108294286
+      Mobile - Senran no Samurai Kingdom JPN - Sergeant Keroro_12: -1219850976
+      Mobile - Senran no Samurai Kingdom JPN - Sergeant Keroro_17: 324932365
+      Mobile - Senran no Samurai Kingdom JPN - Sergeant Keroro_28: -307651258
+      Mobile - Senran no Samurai Kingdom JPN - Sergeant Keroro_5: 1069716215
+      Mobile - Senran no Samurai Kingdom JPN - Sergeant Keroro_24: -547105619
+      Mobile - Senran no Samurai Kingdom JPN - Sergeant Keroro_2: 701425653
+      Mobile - Senran no Samurai Kingdom JPN - Sergeant Keroro_18: -804391233
+      Mobile - Senran no Samurai Kingdom JPN - Sergeant Keroro_3: 1363752764
+      Mobile - Senran no Samurai Kingdom JPN - Sergeant Keroro_25: 544156233
+      Mobile - Senran no Samurai Kingdom JPN - Sergeant Keroro_9: -889178407
+      Mobile - Senran no Samurai Kingdom JPN - Sergeant Keroro_7: 236819361
+      Mobile - Senran no Samurai Kingdom JPN - Sergeant Keroro_19: 453945091
+      Mobile - Senran no Samurai Kingdom JPN - Sergeant Keroro_23: 590912013
+      Mobile - Senran no Samurai Kingdom JPN - Sergeant Keroro_4: -1639916976
+      Mobile - Senran no Samurai Kingdom JPN - Sergeant Keroro_21: 126561977
+      Mobile - Senran no Samurai Kingdom JPN - Sergeant Keroro_14: 1744372780
+      Mobile - Senran no Samurai Kingdom JPN - Sergeant Keroro_26: 653631907
+      Mobile - Senran no Samurai Kingdom JPN - Sergeant Keroro_16: 2045104159
+      Mobile - Senran no Samurai Kingdom JPN - Sergeant Keroro_20: -1249245323
+      Mobile - Senran no Samurai Kingdom JPN - Sergeant Keroro_13: 1845999737
+      Mobile - Senran no Samurai Kingdom JPN - Sergeant Keroro_8: 972764979
+      Mobile - Senran no Samurai Kingdom JPN - Sergeant Keroro_27: 437793467
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
